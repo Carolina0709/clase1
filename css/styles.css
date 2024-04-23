@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;;
+}
+.logo-img{
+    width: 40px;
+    height: 40px;
+}
+.styles-text{
+    font-style: normal;
+    font-weight: 700;
+}
+.btn{
+    font-size: 0.87rem;
+    padding: 0.5rem 1.5rem;
+}
+.min-height-100{
+    min-height: 100vh;
+}
+.min-height-50{
+    min-height: 50vh;
+}
+.letter-spacing{
+    letter-spacing: 1px;
+}
+.color-blue{
+    color: #044FE7;
+}
+.color-blue-light{
+    color: #6298FF;
+}
+.color-gray{
+    color: #a0a0a3;
+}
+.partners-img{
+    max-width: 200px;
+}
+.background-gray{
+    background-color: #F4F4F5;
+}
+.background-black{
+    background-color: #000000;
+}
+.border-radius{
+    border-radius: 1.5rem;
+}
+.gap{
+    gap: 25px;
+}
